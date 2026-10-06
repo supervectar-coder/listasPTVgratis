@@ -5,15 +5,14 @@
 "telegram": "",
 "groups": [
 
+{"name": "LG CHANNELS TV",
+"image": "https://i.ibb.co/KcJX5Q2F/lg-channels.png",
+"url": "https://www.apsattv.com/eslg.m3u"},
 
-{"name": "RAKUTEN",
+{"name": "RAKUTEN TV",
 "image": "https://i.ibb.co/rGGXwDmz/RAKUTEN.png",
 "url": "https://af1c1onados.vercel.app/TV.FREE.Rakuten.Tv.w3u"},
 
-{"name": "RUNTIME",
+{"name": "RUNTIME TV",
 "image": "https://i.ibb.co/3msVTk5w/RUNTIME.png",
-"url": "https://af1c1onados.vercel.app/TV.FREE.RuntimeTV.w3u"},
-
-{"name": "LG CHANNELS TV",
-"image": "https://i.ibb.co/KcJX5Q2F/lg-channels.png",
-"url": "https://www.apsattv.com/eslg.m3u"}]}
+"url": "https://af1c1onados.vercel.app/TV.FREE.RuntimeTV.w3u"}]}
